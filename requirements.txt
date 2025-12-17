@@ -1,0 +1,7 @@
+fastapi
+pydantic
+uvicorn[standard]
+pytest
+httpx
+tortoise-orm
+aiosqlite<0.20.0
